@@ -97,3 +97,42 @@ main{
     margin-top: 20px;
 
 }
+.portfolio{
+    width: 1600px;
+    height: 7335px;
+    background-color: #FFF;
+    margin-top: 20px;
+}
+.images{
+    gap: 5px;
+}
+.gifts-text{
+    color: #F00;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 24px;
+}
+.awsome{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.rendom-text{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.newsletter{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+
+}
